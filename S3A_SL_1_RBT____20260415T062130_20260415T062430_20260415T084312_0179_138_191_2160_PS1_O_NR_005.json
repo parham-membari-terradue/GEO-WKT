@@ -1,0 +1,663 @@
+{
+  "type": "Feature",
+  "stac_version": "1.1.0",
+  "stac_extensions": [
+    "https://stac-extensions.github.io/file/v2.1.0/schema.json",
+    "https://stac-extensions.github.io/sat/v1.0.0/schema.json",
+    "https://stac-extensions.github.io/eo/v1.1.0/schema.json",
+    "https://stac-extensions.github.io/product/v1.0.0/schema.json",
+    "https://stac-extensions.github.io/authentication/v1.1.0/schema.json",
+    "https://stac-extensions.github.io/storage/v1.0.0/schema.json",
+    "https://stac-extensions.github.io/processing/v1.2.0/schema.json"
+  ],
+  "id": "S3A_SL_1_RBT____20260415T062130_20260415T062430_20260415T084312_0179_138_191_2160_PS1_O_NR_005",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          49.6546,
+          42.0054
+        ],
+        [
+          50.2648,
+          41.9567
+        ],
+        [
+          50.8728,
+          41.8954
+        ],
+        [
+          51.479,
+          41.8407
+        ],
+        [
+          52.0948,
+          41.7631
+        ],
+        [
+          52.7017,
+          41.6987
+        ],
+        [
+          53.3007,
+          41.6282
+        ],
+        [
+          53.9102,
+          41.5595
+        ],
+        [
+          54.5061,
+          41.4821
+        ],
+        [
+          55.1146,
+          41.396
+        ],
+        [
+          55.7113,
+          41.3204
+        ],
+        [
+          56.3134,
+          41.2343
+        ],
+        [
+          56.8978,
+          41.1433
+        ],
+        [
+          57.4938,
+          41.0491
+        ],
+        [
+          58.0949,
+          40.9595
+        ],
+        [
+          58.6806,
+          40.8611
+        ],
+        [
+          59.2741,
+          40.756
+        ],
+        [
+          59.8563,
+          40.6516
+        ],
+        [
+          60.4417,
+          40.5418
+        ],
+        [
+          61.0356,
+          40.4361
+        ],
+        [
+          61.6114,
+          40.3217
+        ],
+        [
+          62.1977,
+          40.2016
+        ],
+        [
+          62.7743,
+          40.0801
+        ],
+        [
+          63.3466,
+          39.9645
+        ],
+        [
+          63.923,
+          39.8361
+        ],
+        [
+          64.4873,
+          39.7127
+        ],
+        [
+          65.0605,
+          39.5769
+        ],
+        [
+          65.6258,
+          39.4449
+        ],
+        [
+          66.198,
+          39.3097
+        ],
+        [
+          66.7567,
+          39.1756
+        ],
+        [
+          66.9674,
+          39.12
+        ],
+        [
+          68.0784,
+          41.6689
+        ],
+        [
+          69.2872,
+          44.2522
+        ],
+        [
+          70.6031,
+          46.8217
+        ],
+        [
+          72.0409,
+          49.3667
+        ],
+        [
+          72.0331,
+          49.3784
+        ],
+        [
+          71.7928,
+          49.4389
+        ],
+        [
+          71.1364,
+          49.6055
+        ],
+        [
+          70.4636,
+          49.7647
+        ],
+        [
+          69.7979,
+          49.919
+        ],
+        [
+          69.1344,
+          50.0679
+        ],
+        [
+          68.4525,
+          50.2196
+        ],
+        [
+          67.7802,
+          50.358
+        ],
+        [
+          67.0872,
+          50.5008
+        ],
+        [
+          66.3961,
+          50.6307
+        ],
+        [
+          65.7085,
+          50.7633
+        ],
+        [
+          65.0189,
+          50.8916
+        ],
+        [
+          64.3231,
+          51.0165
+        ],
+        [
+          63.619,
+          51.1376
+        ],
+        [
+          62.8992,
+          51.2484
+        ],
+        [
+          62.1963,
+          51.3583
+        ],
+        [
+          61.4775,
+          51.4672
+        ],
+        [
+          60.766,
+          51.568
+        ],
+        [
+          60.043,
+          51.6674
+        ],
+        [
+          59.327,
+          51.7557
+        ],
+        [
+          58.602,
+          51.8396
+        ],
+        [
+          57.8757,
+          51.9278
+        ],
+        [
+          57.1366,
+          52.0017
+        ],
+        [
+          56.4141,
+          52.0766
+        ],
+        [
+          55.6653,
+          52.1564
+        ],
+        [
+          54.9347,
+          52.2231
+        ],
+        [
+          54.1951,
+          52.2822
+        ],
+        [
+          53.4543,
+          52.3361
+        ],
+        [
+          52.6991,
+          52.3825
+        ],
+        [
+          51.9564,
+          52.4346
+        ],
+        [
+          51.2146,
+          52.4752
+        ],
+        [
+          51.2133,
+          52.4665
+        ],
+        [
+          50.8351,
+          49.8492
+        ],
+        [
+          50.4472,
+          47.2216
+        ],
+        [
+          50.0514,
+          44.5924
+        ],
+        [
+          49.6546,
+          42.0054
+        ]
+      ]
+    ]
+  },
+  "bbox": [
+    49.6546,
+    39.12,
+    72.0409,
+    52.4752
+  ],
+  "properties": {
+    "sat:platform_international_designator": "2016-011A",
+    "sat:orbit_state": "descending",
+    "sat:absolute_orbit": 52909,
+    "sat:relative_orbit": 191,
+    "eo:cloud_cover": 62.686597,
+    "start_datetime": "2026-04-15T06:21:29.566549Z",
+    "end_datetime": "2026-04-15T06:24:29.566549Z",
+    "instruments": [
+      "SLSTR"
+    ],
+    "s3:product_type": "SL_1_RBT___",
+    "s3:gsd": {
+      "S1-S6": 500,
+      "S7-S9 and F1-F2": 1000
+    },
+    "s3:saline_water": 0.0,
+    "s3:land": 100.0,
+    "s3:coastal": 4.90566,
+    "s3:fresh_inland_water": 7.078646,
+    "s3:tidal_region": 0.0,
+    "s3:cosmetic": 27.101389,
+    "s3:duplicated": 5.029757,
+    "s3:saturated": 0.0,
+    "s3:out_of_range": 6.203819,
+    "platform": "Sentinel-3A",
+    "constellation": "Sentinel-3",
+    "s3:processing_timeliness": "NR",
+    "s3:product_name": "slstr-rbt",
+    "product:type": "SL_1_RBT___",
+    "product:timeliness": "PT3H",
+    "product:timeliness_category": "NR",
+    "product:acquisition_type": "nominal",
+    "created": "2026-04-15T10:24:44.350406Z",
+    "mission": "sentinel-3",
+    "sensor_type": "optical",
+    "auth:schemes": {
+      "s3": {
+        "type": "s3"
+      },
+      "oidc": {
+        "type": "openIdConnect",
+        "openIdConnectUrl": "https://identity.dataspace.copernicus.eu/auth/realms/CDSE/.well-known/openid-configuration"
+      }
+    },
+    "storage:schemes": {
+      "cdse-s3": {
+        "type": "custom-s3",
+        "title": "Copernicus Data Space Ecosystem S3",
+        "platform": "https://eodata.dataspace.copernicus.eu",
+        "description": "This endpoint provides access to EO data which is stored on the Object Storage. A Global Service Load Balancer (GSLB) directs the request to either CloudFerro Cloud or OpenTelekom Cloud (OTC) S3 endpoint based on the location of the DNS resolver.",
+        "requester_pays": false
+      },
+      "creodias-s3": {
+        "type": "custom-s3",
+        "title": "CREODIAS S3",
+        "platform": "https://eodata.cloudferro.com",
+        "description": "Comprehensive Earth Observation Data (EODATA) archive offered by CREODIAS as a commercial part of CDSE, designed to provide users with access to a vast repository of satellite data without predefined quota limits",
+        "requester_pays": true
+      }
+    },
+    "processing:facility": "Copernicus S3 Core Ground Segment - DPA",
+    "processing:datetime": "2026-04-15T10:24:44Z",
+    "processing:level": "L3",
+    "storage:tier": "online",
+    "datetime": "2026-04-15T06:22:59.566549Z"
+  },
+  "links": [
+    {
+      "rel": "root",
+      "href": "../catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json"
+    }
+  ],
+  "assets": {
+    "safe-manifest": {
+      "href": "s3://sentinel-3/S3A_SL_1_RBT____20260415T062130_20260415T062430_20260415T084312_0179_138_191_2160_PS1_O_NR_005/S3A_SL_1_RBT____20260415T062130_20260415T062430_20260415T084312_0179_138_191_2160_PS1_O_NR_005.SEN3/xfdumanifest.xml",
+      "type": "application/xml",
+      "description": "SAFE product manifest",
+      "file:checksum": "a8d870ae5189b17177686b16eacf0037",
+      "file:size": 171964,
+      "roles": [
+        "metadata"
+      ]
+    },
+    "slstr-s1-rad-an": {
+      "href": "s3://sentinel-3/S3A_SL_1_RBT____20260415T062130_20260415T062430_20260415T084312_0179_138_191_2160_PS1_O_NR_005/S3A_SL_1_RBT____20260415T062130_20260415T062430_20260415T084312_0179_138_191_2160_PS1_O_NR_005.SEN3/S1_radiance_an.nc",
+      "type": "application/x-netcdf",
+      "description": "TOA radiance for channel S1 (A stripe grid, nadir view)",
+      "s3:spatial_resolution": [],
+      "eo:bands": [
+        {
+          "name": "S1",
+          "description": "Band 1 - Cloud screening, vegetation monitoring, aerosol",
+          "center_wavelength": 0.55427,
+          "full_width_half_max": 0.01926
+        }
+      ],
+      "file:checksum": "ca119390a1afc85302679846276f2b2d",
+      "file:size": 12849812,
+      "s3:shape": [
+        1200,
+        1500
+      ],
+      "roles": [
+        "data"
+      ]
+    },
+    "slstr-s2-rad-an": {
+      "href": "s3://sentinel-3/S3A_SL_1_RBT____20260415T062130_20260415T062430_20260415T084312_0179_138_191_2160_PS1_O_NR_005/S3A_SL_1_RBT____20260415T062130_20260415T062430_20260415T084312_0179_138_191_2160_PS1_O_NR_005.SEN3/S2_radiance_an.nc",
+      "type": "application/x-netcdf",
+      "description": "TOA radiance for channel S2 (A stripe grid, nadir view)",
+      "s3:spatial_resolution": [],
+      "eo:bands": [
+        {
+          "name": "S2",
+          "description": "Band 2 - NDVI, vegetation monitoring, aerosol",
+          "center_wavelength": 0.65947,
+          "full_width_half_max": 0.01925
+        }
+      ],
+      "file:checksum": "5de2784d838800e6bbaf934e26fde382",
+      "file:size": 13010721,
+      "s3:shape": [
+        1200,
+        1500
+      ],
+      "roles": [
+        "data"
+      ]
+    },
+    "slstr-s3-rad-an": {
+      "href": "s3://sentinel-3/S3A_SL_1_RBT____20260415T062130_20260415T062430_20260415T084312_0179_138_191_2160_PS1_O_NR_005/S3A_SL_1_RBT____20260415T062130_20260415T062430_20260415T084312_0179_138_191_2160_PS1_O_NR_005.SEN3/S3_radiance_an.nc",
+      "type": "application/x-netcdf",
+      "description": "TOA radiance for channel S3 (A stripe grid, nadir view)",
+      "s3:spatial_resolution": [],
+      "eo:bands": [
+        {
+          "name": "S3",
+          "description": "Band 3 - NDVI, cloud flagging, pixel co-registration",
+          "center_wavelength": 0.868,
+          "full_width_half_max": 0.0206
+        }
+      ],
+      "file:checksum": "d058dba467ebb70a59dc57a0b5d81669",
+      "file:size": 13174950,
+      "s3:shape": [
+        1200,
+        1500
+      ],
+      "roles": [
+        "data"
+      ]
+    },
+    "slstr-s4-rad-an": {
+      "href": "s3://sentinel-3/S3A_SL_1_RBT____20260415T062130_20260415T062430_20260415T084312_0179_138_191_2160_PS1_O_NR_005/S3A_SL_1_RBT____20260415T062130_20260415T062430_20260415T084312_0179_138_191_2160_PS1_O_NR_005.SEN3/S4_radiance_an.nc",
+      "type": "application/x-netcdf",
+      "description": "TOA radiance for channel S4 (A stripe grid, nadir view)",
+      "s3:spatial_resolution": [],
+      "eo:bands": [
+        {
+          "name": "S4",
+          "description": "Band 4 - Cirrus detection over land",
+          "center_wavelength": 1.3748,
+          "full_width_half_max": 0.0208
+        }
+      ],
+      "file:checksum": "d2280dd0f21b2a2415ec1d0cebac8f3f",
+      "file:size": 9992845,
+      "s3:shape": [
+        1200,
+        1500
+      ],
+      "roles": [
+        "data"
+      ]
+    },
+    "slstr-s5-rad-an": {
+      "href": "s3://sentinel-3/S3A_SL_1_RBT____20260415T062130_20260415T062430_20260415T084312_0179_138_191_2160_PS1_O_NR_005/S3A_SL_1_RBT____20260415T062130_20260415T062430_20260415T084312_0179_138_191_2160_PS1_O_NR_005.SEN3/S5_radiance_an.nc",
+      "type": "application/x-netcdf",
+      "description": "TOA radiance for channel S5 (A stripe grid, nadir view)",
+      "s3:spatial_resolution": [],
+      "eo:bands": [
+        {
+          "name": "S5",
+          "description": "Band 5 - Cloud clearing, ice, snow, vegetation monitoring",
+          "center_wavelength": 1.6134,
+          "full_width_half_max": 0.06068
+        }
+      ],
+      "file:checksum": "870866de67165c2c607fd63de91ea5b5",
+      "file:size": 12744709,
+      "s3:shape": [
+        1200,
+        1500
+      ],
+      "roles": [
+        "data"
+      ]
+    },
+    "slstr-s6-rad-an": {
+      "href": "s3://sentinel-3/S3A_SL_1_RBT____20260415T062130_20260415T062430_20260415T084312_0179_138_191_2160_PS1_O_NR_005/S3A_SL_1_RBT____20260415T062130_20260415T062430_20260415T084312_0179_138_191_2160_PS1_O_NR_005.SEN3/S6_radiance_an.nc",
+      "type": "application/x-netcdf",
+      "description": "TOA radiance for channel S6 (A stripe grid, nadir view)",
+      "s3:spatial_resolution": [],
+      "eo:bands": [
+        {
+          "name": "S6",
+          "description": "Band 6 - Vegetation state and cloud clearing",
+          "center_wavelength": 2.2557,
+          "full_width_half_max": 0.05015
+        }
+      ],
+      "file:checksum": "ddfe3e635604b090d5632e00a99d9d34",
+      "file:size": 12512903,
+      "s3:shape": [
+        1200,
+        1500
+      ],
+      "roles": [
+        "data"
+      ]
+    },
+    "slstr-s7-bt-in": {
+      "href": "s3://sentinel-3/S3A_SL_1_RBT____20260415T062130_20260415T062430_20260415T084312_0179_138_191_2160_PS1_O_NR_005/S3A_SL_1_RBT____20260415T062130_20260415T062430_20260415T084312_0179_138_191_2160_PS1_O_NR_005.SEN3/S7_BT_in.nc",
+      "type": "application/x-netcdf",
+      "description": "Gridded pixel brightness temperature for channel S7 (1km TIR grid, nadir view)",
+      "s3:spatial_resolution": [],
+      "eo:bands": [
+        {
+          "name": "S7",
+          "description": "Band 7 - SST, LST, Active fire",
+          "center_wavelength": 3.742,
+          "full_width_half_max": 0.398
+        }
+      ],
+      "file:checksum": "c654d465b2a3408fd4788521563d7b31",
+      "file:size": 2879006,
+      "s3:shape": [
+        1200,
+        1500
+      ],
+      "roles": [
+        "data"
+      ]
+    },
+    "slstr-s8-bt-in": {
+      "href": "s3://sentinel-3/S3A_SL_1_RBT____20260415T062130_20260415T062430_20260415T084312_0179_138_191_2160_PS1_O_NR_005/S3A_SL_1_RBT____20260415T062130_20260415T062430_20260415T084312_0179_138_191_2160_PS1_O_NR_005.SEN3/S8_BT_in.nc",
+      "type": "application/x-netcdf",
+      "description": "Gridded pixel brightness temperature for channel S8 (1km TIR grid, nadir view)",
+      "s3:spatial_resolution": [],
+      "eo:bands": [
+        {
+          "name": "S8",
+          "description": "Band 8 - SST, LST, Active fire",
+          "center_wavelength": 10.854,
+          "full_width_half_max": 0.776
+        }
+      ],
+      "file:checksum": "f7cba3644eadd8fa92df6b4304780d9b",
+      "file:size": 2770900,
+      "s3:shape": [
+        1200,
+        1500
+      ],
+      "roles": [
+        "data"
+      ]
+    },
+    "slstr-s9-bt-in": {
+      "href": "s3://sentinel-3/S3A_SL_1_RBT____20260415T062130_20260415T062430_20260415T084312_0179_138_191_2160_PS1_O_NR_005/S3A_SL_1_RBT____20260415T062130_20260415T062430_20260415T084312_0179_138_191_2160_PS1_O_NR_005.SEN3/S9_BT_in.nc",
+      "type": "application/x-netcdf",
+      "description": "Gridded pixel brightness temperature for channel S9 (1km TIR grid, nadir view)",
+      "s3:spatial_resolution": [],
+      "eo:bands": [
+        {
+          "name": "S9",
+          "description": "Band 9 - SST, LST",
+          "center_wavelength": 12.0225,
+          "full_width_half_max": 0.905
+        }
+      ],
+      "file:checksum": "f04025e56618497e39592796839f447d",
+      "file:size": 2764801,
+      "s3:shape": [
+        1200,
+        1500
+      ],
+      "roles": [
+        "data"
+      ]
+    },
+    "slstr-f1-bt-fn": {
+      "href": "s3://sentinel-3/S3A_SL_1_RBT____20260415T062130_20260415T062430_20260415T084312_0179_138_191_2160_PS1_O_NR_005/S3A_SL_1_RBT____20260415T062130_20260415T062430_20260415T084312_0179_138_191_2160_PS1_O_NR_005.SEN3/F1_BT_fn.nc",
+      "type": "application/x-netcdf",
+      "description": "Gridded pixel brightness temperature for channel F1 (1km F1 grid, nadir view)",
+      "s3:spatial_resolution": [],
+      "eo:bands": [
+        {
+          "name": "F1",
+          "description": "Band 10 - Active fire",
+          "center_wavelength": 3.742,
+          "full_width_half_max": 0.398
+        }
+      ],
+      "file:checksum": "4a3f1b59966c9132769a635443e69ccb",
+      "file:size": 2917610,
+      "s3:shape": [
+        1200,
+        1500
+      ],
+      "roles": [
+        "data"
+      ]
+    },
+    "slstr-f2-bt-in": {
+      "href": "s3://sentinel-3/S3A_SL_1_RBT____20260415T062130_20260415T062430_20260415T084312_0179_138_191_2160_PS1_O_NR_005/S3A_SL_1_RBT____20260415T062130_20260415T062430_20260415T084312_0179_138_191_2160_PS1_O_NR_005.SEN3/F2_BT_in.nc",
+      "type": "application/x-netcdf",
+      "description": "Gridded pixel brightness temperature for channel F2 (1km TIR grid, nadir view)",
+      "s3:spatial_resolution": [],
+      "eo:bands": [
+        {
+          "name": "F2",
+          "description": "Band 11 - Active fire",
+          "center_wavelength": 10.854,
+          "full_width_half_max": 0.776
+        }
+      ],
+      "file:checksum": "e26ed8b5579218a1b28b7c9ef32b7820",
+      "file:size": 2783754,
+      "s3:shape": [
+        1200,
+        1500
+      ],
+      "roles": [
+        "data"
+      ]
+    },
+    "thumbnail": {
+      "href": "https://catalogue.dataspace.copernicus.eu/odata/v1/Assets(2bb15d3a-d9a9-493b-b043-1dcba43d19dd)/$value",
+      "type": "image/jpeg",
+      "title": "Acquisition quicklook",
+      "roles": [
+        "thumbnail"
+      ]
+    }
+  }
+}
